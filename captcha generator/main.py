@@ -41,5 +41,7 @@ def generate_captcha(txt, output, font):
         output,optimize=True, quality=50
     )
 
+captchaid = random_seed(5)
 
-generate_captcha(random_seed(5),f'captcha-images/captcha-output/{random_seed(5)}.png','fonts/EraserDust-p70d.ttf')
+generate_captcha(captchaid,f'captcha-images/captcha-output/{captchaid}.png','fonts/EraserDust-p70d.ttf')
+print(captchaid + ' was generated!')

@@ -1,8 +1,8 @@
 Pure Python Captcha-Generator
 =============================
 
-Generate Captchas.
-
+Generate Captchas
+==================
 A standard install uses pypng_ to append jpeg files and can also render captcha directly to the output file. A standard install is just::
 
     pip install pil

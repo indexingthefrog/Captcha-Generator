@@ -30,5 +30,5 @@ some example captcha output::
 <p align="center">
     <img src="https://media.discordapp.net/attachments/1031742204575748107/1032068464539603064/unknown.png"/>
     </br>
-    <img src="https://cdn.discordapp.com/attachments/694726636138004593/742408546334933002/unknown.png" width="677px"/>
+    <img src="https://media.discordapp.net/attachments/1031742204575748107/1032068464887746653/unknown.png" width="677px"/>
 </p>

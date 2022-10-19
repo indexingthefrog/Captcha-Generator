@@ -28,7 +28,7 @@ Examples
 
 some example captcha output::
 <p align="center">
-    <img src="[https://media.discordapp.net/attachments/1031742204575748107/1032068464539603064/unknown.png](https://media.discordapp.net/attachments/999434885808795671/1032043374737367140/gPrmQ.png)"/>
+    <img src="https://media.discordapp.net/attachments/1031742204575748107/1032068464539603064/unknown.png"/>
     </br>
-    <img src="[https://cdn.discordapp.com/attachments/694726636138004593/742408546334933002/unknown.png](https://media.discordapp.net/attachments/999434885808795671/1032043375127429130/on2Jx.png)" width="677px"/>
+    <img src="https://cdn.discordapp.com/attachments/694726636138004593/742408546334933002/unknown.png" width="677px"/>
 </p>
